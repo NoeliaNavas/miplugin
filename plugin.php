@@ -5,6 +5,8 @@
  * @author            Noelia Navas Garrido
  * @copyright         2023 Noelia Navas Garrido
  * @license           GPL-2.0-or-later
+ * @link              https://github.com/NoeliaNavas/miplugin.git
+ * @author            NoeliaNavas
  *
  * @wordpress-plugin
  * Plugin Name:       Deporte Slider
